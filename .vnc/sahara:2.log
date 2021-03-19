@@ -1,0 +1,208 @@
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+
+Xvnc TigerVNC 1.10.0 - built May  5 2020 05:22:55
+Copyright (C) 1999-2019 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12006000, The X.Org Foundation
+
+
+Sat Nov 28 21:32:01 2020
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 16001
+ vncext:      created VNC server for screen 0
+Failed to connect to bus: No such file or directory
+dbus-update-activation-environment: error: unable to connect to D-Bus: Using X11 for dbus-daemon autolaunch was disabled at compile time, set your DBUS_SESSION_BUS_ADDRESS instead
+xsettingsd: Loaded 5 settings from /home/.xsettingsd
+xsettingsd: Created window 0x200001 on screen 0 with timestamp 3325343253
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+
+ERROR: openbox-xdg-autostart requires PyXDG to be installed
+
+Sat Nov 28 21:32:06 2020
+ Connections: accepted: 127.0.0.1::56016
+ SConnection: Client needs protocol version 3.7
+
+Sat Nov 28 21:32:07 2020
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Sat Nov 28 21:32:10 2020
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Nov 28 21:32:26 2020
+ VNCSConnST:  closing 127.0.0.1::56016: Clean disconnection
+ EncodeManager: Framebuffer updates: 4
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 7 rects, 1.35388 Mpixels
+ EncodeManager:            112 B (1:48353.6 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 315 pixels
+ EncodeManager:                  513 B (1:2.47953 ratio)
+ EncodeManager:   Total: 8 rects, 1.3542 Mpixels
+ EncodeManager:          625 B (1:8667 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Nov 28 21:32:43 2020
+ Connections: accepted: 127.0.0.1::56048
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Nov 28 21:32:45 2020
+ VNCSConnST:  closing 127.0.0.1::56048: Clean disconnection
+ EncodeManager: Framebuffer updates: 3
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 4 rects, 1.35388 Mpixels
+ EncodeManager:            64 B (1:84618.2 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 285 pixels
+ EncodeManager:                  499 B (1:2.30862 ratio)
+ EncodeManager:   Total: 5 rects, 1.35417 Mpixels
+ EncodeManager:          563 B (1:9621.17 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Nov 28 21:33:36 2020
+ Connections: accepted: 127.0.0.1::56098
+
+Sat Nov 28 21:33:37 2020
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Nov 28 21:33:39 2020
+ VNCSConnST:  closing 127.0.0.1::56098: Clean disconnection
+ EncodeManager: Framebuffer updates: 1
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 3 rects, 1.3536 Mpixels
+ EncodeManager:            48 B (1:112800 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 285 pixels
+ EncodeManager:                  499 B (1:2.30862 ratio)
+ EncodeManager:   Total: 4 rects, 1.35388 Mpixels
+ EncodeManager:          547 B (1:9900.49 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Nov 28 21:33:40 2020
+ Connections: accepted: 127.0.0.1::56104
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Sat Nov 28 21:33:41 2020
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Nov 28 21:33:42 2020
+ VNCSConnST:  closing 127.0.0.1::56104: Clean disconnection
+ EncodeManager: Framebuffer updates: 1
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 3 rects, 1.3536 Mpixels
+ EncodeManager:            48 B (1:112800 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 285 pixels
+ EncodeManager:                  499 B (1:2.30862 ratio)
+ EncodeManager:   Total: 4 rects, 1.35388 Mpixels
+ EncodeManager:          547 B (1:9900.49 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Nov 28 21:33:43 2020
+ Connections: accepted: 127.0.0.1::56112
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Nov 28 21:33:46 2020
+ VNCSConnST:  closing 127.0.0.1::56112: Clean disconnection
+ EncodeManager: Framebuffer updates: 3
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 4 rects, 1.35388 Mpixels
+ EncodeManager:            64 B (1:84618.2 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 285 pixels
+ EncodeManager:                  499 B (1:2.30862 ratio)
+ EncodeManager:   Total: 5 rects, 1.35417 Mpixels
+ EncodeManager:          563 B (1:9621.17 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Nov 28 21:33:51 2020
+ Connections: accepted: 127.0.0.1::56126
+
+Sat Nov 28 21:33:52 2020
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+ VNCSConnST:  closing 127.0.0.1::56126: Clean disconnection
+ EncodeManager: Framebuffer updates: 1
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 3 rects, 1.35358 Mpixels
+ EncodeManager:            48 B (1:112799 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 300 pixels
+ EncodeManager:                  505 B (1:2.4 ratio)
+ EncodeManager:   Total: 4 rects, 1.35388 Mpixels
+ EncodeManager:          553 B (1:9793.07 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Nov 28 21:34:55 2020
+ Connections: accepted: 127.0.0.1::56206
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Nov 28 21:34:57 2020
+ VNCSConnST:  closing 127.0.0.1::56206: Clean disconnection
+ EncodeManager: Framebuffer updates: 3
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 4 rects, 1.35388 Mpixels
+ EncodeManager:            64 B (1:84618.2 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 300 pixels
+ EncodeManager:                  505 B (1:2.4 ratio)
+ EncodeManager:   Total: 5 rects, 1.35418 Mpixels
+ EncodeManager:          569 B (1:9519.82 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Sat Nov 28 21:35:05 2020
+ Connections: accepted: 127.0.0.1::56210
+ SConnection: Client needs protocol version 3.7
+ SConnection: Client requests security type None(1)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Sat Nov 28 21:35:06 2020
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian bgr888
+
+Sat Nov 28 21:35:09 2020
+ VNCSConnST:  closing 127.0.0.1::56210: Clean disconnection
+ EncodeManager: Framebuffer updates: 3
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 4 rects, 1.35388 Mpixels
+ EncodeManager:            64 B (1:84618.2 ratio)
+ EncodeManager:     Indexed RLE: 1 rects, 285 pixels
+ EncodeManager:                  499 B (1:2.30862 ratio)
+ EncodeManager:   Total: 5 rects, 1.35417 Mpixels
+ EncodeManager:          563 B (1:9621.17 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
